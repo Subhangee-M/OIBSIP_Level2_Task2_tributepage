@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+    width: 95%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+main{
+    padding-bottom: 15px;
+    margin: 30px auto;
+}
+.title{
+    width: 100%;
+    padding: 50px 0px;
+}
+.title p {
+    font-size: x-large;
+    margin-top: 15px;
+}
+.title h1 {
+    margin-top: 15px;
+}
+.img{
+    width: 95%;
+    background-color: white;
+    margin: auto;
+    padding: 25px 0px;
+    text-align: center;
+}
+img{
+    margin: auto;
+    width: 90%;
+    display: block;
+}
+.tribute{
+    margin: 50px;
+}
+.timeline{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+.timeline ul{
+    margin: 45px 35px;
+    width: 100%;
+    text-align: justify;
+    font-size: 18px;
+}
+.link{
+    margin: 70px;
+    font-size: 10px;
+    font-weight: bold;
+}
